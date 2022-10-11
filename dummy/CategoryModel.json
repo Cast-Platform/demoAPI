@@ -1,0 +1,73 @@
+[
+    {
+        "id": 0,
+        "name": "Suggested Channels",
+        "description": "Channels you may like",
+        "is_paid": true,
+        "image": "assets/images/suggestion_icon.png"
+    },{
+        "id": 1,
+        "name": "Entertainment",
+        "description": "Entertainment",
+        "is_paid": true,
+        "image": "assets/images/entertainment.png"
+    },
+    {
+        "id": 12,
+        "name": "Comedy",
+        "description": "Channels to make you laugh",
+        "is_paid": true,
+        "image": "assets/images/insert_emoticon.png"
+    },{
+        "id": 2,
+        "name": "Sports & Athletics",
+        "description": "Sports & Athletics",
+        "is_paid": true,
+        "image": "assets/images/balls_sports.png"
+    },{
+        "id": 3,
+        "name": "Educational",
+        "description": "Educational",
+        "is_paid": true,
+        "image": "assets/images/educational.png"
+    },{
+        "id": 4,
+        "name": "Food",
+        "description": "Food",
+        "is_paid": true,
+        "image": "assets/images/food.png"
+    },{
+        "id": 5,
+        "name": "Travel & Tourism",
+        "description": "Travel & Tourism",
+        "is_paid": true,
+        "image": "assets/images/tourism.png"
+    },
+    {
+        "id": 6,
+        "name": "Hospitality & Real Estates",
+        "description": "Hospitality & Real_Estates",
+        "is_paid": true,
+        "image": "assets/images/real_estate.png"
+    },{
+        "id": 7,
+        "name": "Nature & wildlife",
+        "description": "Nature & wildlife",
+        "is_paid": true,
+        "image": "assets/images/biodiversity.png"
+    },
+    {
+        "id": 8,
+        "name": "Health & Fitness",
+        "description": "Informative",
+        "is_paid": true,
+        "image": "assets/images/fitness.png"
+    },
+    {
+        "id": 9,
+        "name": "Informative",
+        "description": "Informative",
+        "is_paid": true,
+        "image": "assets/images/info.png"
+    }
+]
